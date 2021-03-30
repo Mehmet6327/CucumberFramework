@@ -1,5 +1,4 @@
-
-@wip
+@driver @wip
 Feature: Edit book should have following parameters
 
   Background:
